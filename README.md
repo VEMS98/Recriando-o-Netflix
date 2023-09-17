@@ -1,2 +1,2 @@
 # Recriando o Netflix
- Recriação do Netflix com HTML, CSS e JS.
+ Recriando a página inicial do usuário da Netflix com html e css.
